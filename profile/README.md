@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KadranAgenda/KadranSite/master/public/logo-white.svg" width="72" alt="Kadran">
-
 # Kadran
 
 **Un agenda personnel, multi-utilisateurs, qui vit chez vous.**
